@@ -1,1 +1,2 @@
 max temp 100
+min temp -20
